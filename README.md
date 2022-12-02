@@ -4,7 +4,7 @@
 
 - Components a serem criados:
 
-[] Text
+[x] Text
 [] Heading
 [] Box
 [] Button
