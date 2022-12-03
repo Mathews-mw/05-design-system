@@ -1,0 +1,2 @@
+import{A as t}from"./index.67b5edb4.js";import"./index.058b3ed2.js";import"./iframe.72bd986e.js";import"./index.bed40947.js";import"./jsx-runtime.f54b2139.js";const i={title:"Data Display/Avatar",component:t,args:{src:"https://avatars.githubusercontent.com/u/97031798?v=4",alt:"Foto de perfil"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0,alt:"Foto de perfil"}},l=["Primary","WithFallBack"];export{p as Primary,c as WithFallBack,l as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.85ff64ab.js.map
